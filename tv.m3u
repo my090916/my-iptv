@@ -42,12 +42,12 @@ http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV17 农业农村
 http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 group-title="汕头电视台",汕头新闻综合
-https://sttv-hls.strtv.cn/lKGXIQa/500/n2sgK4X.m3u8?sign=e8db4c622417a93795cd2c141c0af245&t=6ada0e07
+https://sttv-hls.strtv.cn/lKGXIQa/500/n2sgK4X.m3u8?sign=e91e12a18afa9408608ab26328c42561&t=6ada1253
 #EXTINF:-1 group-title="汕头电视台",汕头经济生活
-https://sttv-hls.strtv.cn/7xjJK9d/500/d42fx4J.m3u8?sign=7305792e3f30d71e2c4ac57dc9dc2339&t=6ada0e07
+https://sttv-hls.strtv.cn/7xjJK9d/500/d42fx4J.m3u8?sign=1330b089a4518706ddc90ed469979700&t=6ada1253
 #EXTINF:-1 group-title="汕头电视台",汕头102.5音乐广播
-https://sttv-hls.strtv.cn/s7k681h/64/44bf746.m3u8?sign=5b8ec336d672729a3d7db0d372465612&t=6ada0e07
+https://sttv-hls.strtv.cn/s7k681h/64/44bf746.m3u8?sign=c8a2b949e6fcc007f33e76f87becc732&t=6ada1253
 #EXTINF:-1 group-title="汕头电视台",汕头107.2综合广播
-https://sttv-hls.strtv.cn/Li7mg21/64/h3yfi4m.m3u8?sign=063cc90dcc201e776f39d4cc4d599328&t=6ada0e07
+https://sttv-hls.strtv.cn/Li7mg21/64/h3yfi4m.m3u8?sign=1ed1bb5e2406c0ddd512988e07c5d730&t=6ada1253
 #EXTINF:-1 group-title="潮州电视台",潮州公共
 http://113.64.146.48:1688/hls/4/index.m3u8
