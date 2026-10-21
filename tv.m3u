@@ -1,0 +1,53 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="央视频道",CCTV1 综合
+http://219.147.245.238:25480/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV2 财经
+http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3 综艺
+http://219.147.245.238:25480/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4 中文国际
+http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5 体育
+http://219.147.245.238:25480/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5+ 体育赛事
+http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5+ 体育赛事
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV6 电影
+http://219.147.245.238:25480/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7 国防军事
+http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8 电视剧
+http://219.147.245.238:25480/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9 纪录
+http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10 科教
+http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11 戏曲
+http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12 社会与法
+http://219.147.245.238:25480/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12 社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13 新闻
+http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14 少儿
+http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV15 音乐
+http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV16 奥林匹克
+http://gmxw.7766.org:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV17 农业农村
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="汕头电视台",汕头新闻综合
+https://sttv-hls.strtv.cn/lKGXIQa/500/n2sgK4X.m3u8?sign=e8db4c622417a93795cd2c141c0af245&t=6ada0e07
+#EXTINF:-1 group-title="汕头电视台",汕头经济生活
+https://sttv-hls.strtv.cn/7xjJK9d/500/d42fx4J.m3u8?sign=7305792e3f30d71e2c4ac57dc9dc2339&t=6ada0e07
+#EXTINF:-1 group-title="汕头电视台",汕头102.5音乐广播
+https://sttv-hls.strtv.cn/s7k681h/64/44bf746.m3u8?sign=5b8ec336d672729a3d7db0d372465612&t=6ada0e07
+#EXTINF:-1 group-title="汕头电视台",汕头107.2综合广播
+https://sttv-hls.strtv.cn/Li7mg21/64/h3yfi4m.m3u8?sign=063cc90dcc201e776f39d4cc4d599328&t=6ada0e07
+#EXTINF:-1 group-title="潮州电视台",潮州公共
+http://113.64.146.48:1688/hls/4/index.m3u8
