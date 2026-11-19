@@ -1,4 +1,4 @@
-# 潮汕 + 央视 直播源  |  生成时间 2026-11-18 22:55:42
+# 潮汕 + 央视 直播源  |  生成时间 2026-11-19 23:01:27
 # 央视线路为长期静态源；汕头台为官方按天签名，每天需重新运行「更新潮汕央视直播源」
 
 央视频道,#genre#
@@ -22,10 +22,10 @@ CCTV16 奥林匹克,http://gmxw.7766.org:808/hls/169/index.m3u8
 CCTV17 农业农村,http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
 
 汕头电视台,#genre#
-汕头新闻综合,https://sttv-hls.strtv.cn/lKGXIQa/500/54slsG0.m3u8?sign=2b26d07d6ccde5e6035e63d5e4a97221&t=6aff9a8e
-汕头经济生活,https://sttv-hls.strtv.cn/7xjJK9d/500/v527sj0.m3u8?sign=ee8fac7f72e4b81971736e068418ded6&t=6aff9a8e
-汕头102.5音乐广播,https://sttv-hls.strtv.cn/s7k681h/64/m5bwsk0.m3u8?sign=55843e5e29bbb57405d055a212504399&t=6aff9a8e
-汕头107.2综合广播,https://sttv-hls.strtv.cn/Li7mg21/64/z4yLs70.m3u8?sign=c435493fc58c134fdbfcfcf854278dc7&t=6aff9a8e
+汕头新闻综合,https://sttv-hls.strtv.cn/lKGXIQa/500/k4sgK4X.m3u8?sign=713e4e5bd6437ff90757aeaa12bdd660&t=6b00ed67
+汕头经济生活,https://sttv-hls.strtv.cn/7xjJK9d/500/a62fx4J.m3u8?sign=b18714a3b5c0b8f4aa0de63e1f744e37&t=6b00ed67
+汕头102.5音乐广播,https://sttv-hls.strtv.cn/s7k681h/64/16bf746.m3u8?sign=9d0d65c5add6d419880bbac9d6f8b862&t=6b00ed67
+汕头107.2综合广播,https://sttv-hls.strtv.cn/Li7mg21/64/e5yfi4m.m3u8?sign=d901432def49c6f89497eb865ce9c773&t=6b00ed67
 
 潮州电视台,#genre#
 潮州公共,http://113.64.146.48:1688/hls/4/index.m3u8
